@@ -7,9 +7,7 @@
 ![macOS](https://img.shields.io/badge/macOS-111111?style=for-the-badge&logo=apple&logoColor=white)
 ![Übersicht](https://img.shields.io/badge/Übersicht-Widget-6b4fa3?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
-![License](https://img.shields.io/badge/license-MIT-yellow)
-![macOS Compatible](https://img.shields.io/badge/macOS-compatible-success?logo=apple&logoColor=white)
+
 
 </div>
 

@@ -2,8 +2,8 @@
 // Configure your GitHub username and display name below.
 // Install in: ~/Library/Application Support/Übersicht/widgets/
 
-const USERNAME = "maTTvey-web";
-const DISPLAY_NAME = "Matvey";
+const USERNAME = "USER";
+const DISPLAY_NAME = "USER";
 
 export const command = `curl -s -L -A "Mozilla/5.0" "https://github.com/users/${USERNAME}/contributions"`;
 export const refreshFrequency = 1000 * 60 * 30;
